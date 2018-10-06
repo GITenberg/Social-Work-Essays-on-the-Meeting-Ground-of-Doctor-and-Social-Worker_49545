@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Social Work; Essays on the Meeting Ground of Doctor and Social Worker
 url: http://www.gutenberg.org/ebooks/49545
